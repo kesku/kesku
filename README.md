@@ -4,7 +4,7 @@
   University student working towards a Masters in Artificial Intelligence
 </p>
 
-- 🖥️ &nbsp;[Moderating OpenAI's Discord Community](discord.gg/openai)
+- 🖥️ &nbsp;[Moderating OpenAI's Discord Community](https://discord.gg/openai)
 - 🤖 &nbsp;Creating AI tools using the OpenAI API and PyTorch.
 - 💬 &nbsp;Ask me anything about Python, JavaScript, AI, or Discord Bot development! My Discord DMs are always open!
 - 🥞 &nbsp;Fun fact: I make pancakes every Saturday!
