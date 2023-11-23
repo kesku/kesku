@@ -21,6 +21,7 @@
 #### 🌐 Social Links:
 [![Discord](https://img.shields.io/badge/-Discord-424549?style=flat-square&logo=discord)](https://discord.com/users/539468067923820546)
 [![Twitter](https://img.shields.io/badge/-Twitter-424549?style=flat-square&logo=twitter)](https://twitter.com/yoimnotkesku)
+[![Google Developers](https://img.shields.io/badge/-Google_Developers-424549?style=flat-square&logo=google)](https://g.dev/kesku)
 
 ### ✨ About Me
 I'm a university student, passionate about AI and ML. When I'm not studying or volunteering for OpenAI, you can find me tinkering with Discord Bots or perfecting my pancake recipes!
