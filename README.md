@@ -1,16 +1,28 @@
-### Hi there 👋
+### <p align="center"> Heya! Call me Kes! (He/Him)</p> 
+<p align="center">
+  <img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="25px">
+  University student working towards a Masters in Artificial Intelligence
+</p>
 
-<!--
-**kesku/kesku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ &nbsp;[Moderating OpenAI's Discord Community](discord.gg/openai)
+- 🤖 &nbsp;Creating AI tools using the OpenAI API and PyTorch.
+- 💬 &nbsp;Ask me anything about Python, JavaScript, AI, or Discord Bot development! My Discord DMs are always open!
+- 🥞 &nbsp;Fun fact: I make pancakes every Saturday!
 
-Here are some ideas to get you started:
+#### 🛠 Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🌐 Social Links:
+[![Discord](https://img.shields.io/badge/-Discord-424549?style=flat-square&logo=discord)](https://discord.com/users/539468067923820546)
+[![Twitter](https://img.shields.io/badge/-Twitter-424549?style=flat-square&logo=twitter)](https://twitter.com/yoimnotkesku)
+
+### ✨ About Me
+I'm a university student, passionate about AI and ML. When I'm not studying or volunteering for OpenAI, you can find me tinkering with Discord Bots or perfecting my pancake recipes!
+
+> "People always make the mistake of calling an idea small or stupid because they don't understand how it's going to evolve." - Sam Altman
