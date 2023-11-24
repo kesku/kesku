@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![OpenCV](https://img.shields.io/badge/opencv-black?style=flat-square&logo=opencv)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black.svg?style=flat-square&logo=android-studio)
 ![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
