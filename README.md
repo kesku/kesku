@@ -1,6 +1,6 @@
 ### <p align="center"> Heya! Call me Kes! (He/Him)</p> 
 <p align="center">
-  <img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="25px">
+  <img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="15px">
   University student working towards a Masters in Artificial Intelligence
 </p>
 
