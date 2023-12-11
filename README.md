@@ -18,6 +18,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black.svg?style=flat-square&logo=android-studio)
 ![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=TensorFlow)
 
 
 
