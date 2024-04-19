@@ -30,6 +30,6 @@
 [![OpenAI Developers Forum](https://img.shields.io/badge/OpenAI-424549?style=flat-square&logo=openai)](https://community.openai.com/u/kesku)
 
 ### ✨ About Me
-I'm a university student, passionate about AI and ML. When I'm not studying or volunteering for OpenAI, you can find me tinkering with Discord Bots or perfecting my pancake recipes!
+I'm a university student, passionate about AI and ML. When I'm not studying or volunteering for OpenAI, you can find me tinkering with LLMs or perfecting my pancake recipes! Most repos of mine are kept private for now.
 
 > "People always make the mistake of calling an idea small or stupid because they don't understand how it's going to evolve." - Sam Altman
