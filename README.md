@@ -5,7 +5,7 @@
   Studying Data Science and Machine Learning
 </p>
 
-- 🖥️ &nbsp;Moderator of the [OpenAI Discord](https://discord.gg/openai)
+- 🖥️ &nbsp;Senior Moderator of the [OpenAI Discord](https://discord.gg/openai)
 - 🤖 &nbsp;Making my own and fine-tuning existing LLMs
 - 💬 &nbsp;My Discord DMs are always open! Ask me about NPUs because they're incredible bits of hardware
 - 🥞 &nbsp;Fun fact: I make pancakes every Saturday! Still trying to get the perfect recipe..
@@ -30,4 +30,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-424549?style=flat-square&logo=X)](https://twitter.com/yoimnotkesku)
 [![OpenAI Developers Forum](https://img.shields.io/badge/OpenAI-424549?style=flat-square&logo=openai)](https://community.openai.com/u/kesku)
 
-**Most repos of mine are kept private for now.**
+**Repos of mine are kept private, just dm me on [x dot com](https://x.com/yoimnotkesku) if you want to ask about something**
