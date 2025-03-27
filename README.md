@@ -8,7 +8,7 @@
 - &nbsp;Senior Mod @ [discord.gg/openai](https://discord.gg/openai)
 - &nbsp;Making and fine-tuning existing LLMs from scratch
 - &nbsp;Discord DMs always open, ask me about [NPUs](https://x.com/yoimnotkesku/status/1805592555817419104)
-- &nbsp;ML Eng @ [Pentaform](https://www.pentaform.co.uk/) working on `NDA`
+- &nbsp;Doing things @ `REDACTED`
 
 ##### Languages/IDEs/Tools I often use:
 
