@@ -7,7 +7,7 @@
 
 - &nbsp;Doing things @ [Perplexity AI](https://www.plex.it/)
 - &nbsp;Building AI models in my free time 
-- &nbsp;Discord DMs always open, ask me about [NPUs](https://x.com/yoimnotkesku/status/1805592555817419104)
+- &nbsp;Ask me about [NPUs](https://x.com/yoimnotkesku/status/1805592555817419104)
 
 ##### Languages/IDEs/Tools I often use:
 
