@@ -11,15 +11,16 @@
 
 ##### Languages/IDEs/Tools I often use:
 
+![Go](https://img.shields.io/badge/Go-black.svg??style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-black?style=flat-square&logo=vsc)
+![Cursor](https://img.shields.io/badge/Cursor-black?logo=cursor&style=flat-square)
 
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![CUDA](https://img.shields.io/badge/-CUDA-black?style=flat-square&logo=nvidia)
 ![RyzenAI](https://img.shields.io/badge/-RyzenAI-black?style=flat-square&logo=amd)
 
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API/Client-black?style=flat-square&logo=openai)
+![Perplexity](https://img.shields.io/badge/-Perplexity%20API/Client-black?style=flat-square&logo=perplexity)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface)
 
 ##### Socials:
