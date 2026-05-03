@@ -1,13 +1,8 @@
-### <p align="center"> Hey, I'm Kes! (He/Him), 20</p>
+### <p align="center"><img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="20px"> Hey, I'm Kes! (He/Him), 20</p>
 
-<p align="center">
-  <img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="20px">
-  Studying Data Science and Machine Learning
-</p>
-
-- &nbsp;Doing things @ [Perplexity AI](https://www.plex.it/)
-- &nbsp;Building AI models in my free time 
-- &nbsp;Ask me about [NPUs](https://ryzenai.docs.amd.com/en/latest/inst.html)
+- &nbsp;Doing things @ [Exa Labs](https://www.exa.ai/)
+- &nbsp;Building whatever I feel like in my spare time
+- &nbsp;Check out my [website](https://kesku.mne)
 
 ##### Languages/IDEs/Tools I often use:
 
@@ -20,7 +15,7 @@
 ![CUDA](https://img.shields.io/badge/-CUDA-black?style=flat-square&logo=nvidia)
 ![RyzenAI](https://img.shields.io/badge/-RyzenAI-black?style=flat-square&logo=amd)
 
-![Perplexity](https://img.shields.io/badge/-Perplexity%20API/Client-black?style=flat-square&logo=perplexity)
+![Exa](https://img.shields.io/badge/-Exa%20API%2FClient-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjFlbSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5FeGE8L3RpdGxlPjxwYXRoIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTMgMGgxOXYxLjc5MUwxMy44OTIgMTIgMjIgMjIuMjA5VjI0SDN6bTkuNjIgMTAuMzQ4IDYuNTg5LTguNTU3SDYuMDN6TTUuMTM4IDMuOTM1djcuMTdoNS41MnpNNS4xMzggMTIuODk1djcuMTdoNS41MnpNNi4wMyAyMi4yMWw2LjU5LTguNTU3IDYuNTg5IDguNTU3eiIgZmlsbD0iIzFmNDBlZCIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-black?style=flat-square&logo=huggingface)
 
 ##### Socials:
