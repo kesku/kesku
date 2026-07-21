@@ -1,4 +1,4 @@
-### <p align="center"><img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="20px"> Hey, I'm Kes! (He/Him), 20</p>
+### <p align="center"><img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="20px"> Hey, I'm Kes! (He/Him), 21</p>
 
 - &nbsp;Doing things @ [Exa Labs](https://www.exa.ai/)
 - &nbsp;Building whatever I feel like in my spare time
