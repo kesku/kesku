@@ -2,7 +2,7 @@
 
 - &nbsp;Doing things @ [Exa Labs](https://www.exa.ai/)
 - &nbsp;Building whatever I feel like in my spare time
-- &nbsp;Check out my [website](https://kesku.mne)
+- &nbsp;Check out my [website](https://kesku.me)
 
 ##### Languages/IDEs/Tools I often use:
 
